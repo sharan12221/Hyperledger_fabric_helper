@@ -1,4 +1,4 @@
-# Backup Guide for Hyperledger Fabric Network
+# Backup Guide for Hyperledger Fabric Network 
 
 This guide provides step-by-step instructions to back up your Hyperledger Fabric network, ensuring you can restore it in case of failures or data loss.
 
@@ -117,3 +117,6 @@ with
 ```
 ./network.sh up -ca -s couchdb
 ```
+
+
+link:- https://medium.com/coinmonks/how-to-take-a-backup-for-your-hyperledger-fabric-network-d42f1a4eb6d0
